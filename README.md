@@ -27,10 +27,9 @@ Jupyter NoteBook **Python** ver 3.10
 * Degree
 # EDA
 I look at the distribution and values count of values. Below are some highlights:
-![image](https://user-images.githubusercontent.com/99704273/188903354-7875fc28-82d3-4f5b-9243-c306cbd95831.png)
-![image](https://user-images.githubusercontent.com/99704273/188903467-ad9b9b46-38e2-48fd-8a3c-7f9a360c5611.png)
 ![Data Scientist's Salary EDA - Jupyter Notebook - AVG Secure Browser 9_7_2022 11_28_28 PM](https://user-images.githubusercontent.com/99704273/188904211-e21f9aa8-e439-4fcc-9b6b-9230e872b612.png)
-
+![image](https://user-images.githubusercontent.com/99704273/188903467-ad9b9b46-38e2-48fd-8a3c-7f9a360c5611.png)
+![image](https://user-images.githubusercontent.com/99704273/188903354-7875fc28-82d3-4f5b-9243-c306cbd95831.png)
 # Model Building
 I transformed values of columns into readable code (filecode is attached)
 Then apply different models and test the estimated the accuracy of each model based on the value Mean Squared Error (MSE).
