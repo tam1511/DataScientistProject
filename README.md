@@ -29,6 +29,7 @@
 * Degree
 
 # EDA
+I use Python for this part for my practice
 
 I look at the distribution and values count of values. Below are some highlights:
 ![Data Scientist's Salary EDA - Jupyter Notebook - AVG Secure Browser 9_7_2022 11_28_28 PM](https://user-images.githubusercontent.com/99704273/188904211-e21f9aa8-e439-4fcc-9b6b-9230e872b612.png)
@@ -49,6 +50,7 @@ The Random Forest model far outperformed the other approaches on the test and va
 * **The Lasso** MSE = 762.54
 
 * **Linear Regression** MSE = 995.88
+(For modelling I use R)
 
 After choosing the best model to predict the salary, we can actually apply them too make predictions on future outcomes.
 Maybe later on I will try to deploy the model into action !
