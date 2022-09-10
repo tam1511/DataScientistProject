@@ -35,6 +35,18 @@ I look at the distribution and values count of values. Below are some highlights
 ![Data Scientist's Salary EDA - Jupyter Notebook - AVG Secure Browser 9_7_2022 11_28_28 PM](https://user-images.githubusercontent.com/99704273/188904211-e21f9aa8-e439-4fcc-9b6b-9230e872b612.png)
 ![image](https://user-images.githubusercontent.com/99704273/188903467-ad9b9b46-38e2-48fd-8a3c-7f9a360c5611.png)
 ![image](https://user-images.githubusercontent.com/99704273/188903354-7875fc28-82d3-4f5b-9243-c306cbd95831.png)
+
+* The average salary is $102k. 75% jobs offer the lower salary from $91k and the upper salary from $155k
+
+* California has the most number of jobs. also offers the highest average maximal annual salary
+
+* Biotech & Pharmaceuticals Industry has maximum number of jobs followed by Insurance carriers
+
+* Computer Hardware & Software Industry has the highest average maximal salary among the 5 selected industries, it is followed by Biotech & Pharmaceuticals.
+
+* A large number of job postings are for Data Scientist, followed by other scientists (research scientists, consultants etc) and data engineer.
+
+* Most of the companies has mentioned Masters degree in their job descriptions. For companies that mentioned a PhD degree in their job description, they offered much highes average annual salary as compared to Masters. 
 # Model Building
 I transformed values of columns into readable code (filecode is attached)
 Then apply different models and test the estimated the accuracy of each model based on the value Mean Squared Error (MSE).
