@@ -64,5 +64,6 @@ The Random Forest model far outperformed the other approaches on the test and va
 * **Linear Regression** MSE = 995.88
 (For modelling I use R)
 
-After choosing the best model to predict the salary, we can actually apply them too make predictions on future outcomes.
-Maybe later on I will try to deploy the model into action !
+After choosing the best model to predict the salary, we can actually apply them to make predictions on future outcomes.
+
+Maybe later on I will try to deploy the model into production !
