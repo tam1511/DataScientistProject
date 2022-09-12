@@ -28,7 +28,9 @@
 * Seniority
 * Degree
 
-# EDA
+# EDA 
+Result page -> https://tam1511.github.io/DataScientistProject/Data%20Scientist%20Salary%20_%20EDA.html
+
 I use Python for this part for my practice
 
 I look at the distribution and values count of values. Below are some highlights:
