@@ -1,4 +1,4 @@
-# Data Scientist Project Project Overview
+# Data Scientist Salary Project Overview
 * Build a model to estimate Data Scientist Salary, may help people negotiate their wage when they get a job in Data Science
 * The data available on Kaggle was scrapped from Glassdoor Website.
 * By using R Program optimizes **Linear Regression**, **the Lasso**, **RandomForest** methods to reach the best model
