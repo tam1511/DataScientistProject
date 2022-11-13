@@ -64,7 +64,7 @@ The Random Forest model far outperformed the other approaches on the test and va
 * **The Lasso** MSE = 762.54
 
 * **Linear Regression** MSE = 995.88
-(For modelling I use R)
+(For modeling I use R)
 
 After choosing the best model to predict the salary, we can actually apply them to make predictions on future outcomes.
 
